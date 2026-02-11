@@ -8,3 +8,5 @@
 - **Tạo PRD.md:** Product Requirements Document — tổng hợp từ `tai_lieu_yeu_cau.md`.
 - **Đổi tech stack:** Next.js → React 18 + TypeScript + Vite. Cập nhật PRD.md, newbie.md, STATUS.md.
 - **Implement MVP:** Hoàn thiện source code (QuizGame, QuizCard, useSpeech, Confetti). Build thành công.
+- **Push GitHub:** Đã đẩy code lên `https://github.com/tuyennv38/kidlearn`.
+- **Deploy Vercel:** Đã deploy thành công tại `https://kidlearn-tau.vercel.app`.

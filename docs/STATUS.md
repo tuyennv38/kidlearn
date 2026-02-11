@@ -9,7 +9,7 @@
 | 3. Hook useSpeech (Web Speech API) | ✅ Hoàn thành | |
 | 4. Quiz Mode logic | ✅ Hoàn thành | Random, score, repeat |
 | 5. Hiệu ứng (Framer Motion + Confetti) | ✅ Hoàn thành | |
-| 6. Deploy GitHub + Vercel | ⬜ Chưa bắt đầu | Chờ user |
+| 6. Deploy GitHub + Vercel | ✅ Hoàn thành | URL: https://kidlearn-tau.vercel.app |
 
 ## Cập nhật gần nhất
 - **2026-02-11:** Tạo tài liệu yêu cầu, khởi tạo repo, thiết lập agent rules.
