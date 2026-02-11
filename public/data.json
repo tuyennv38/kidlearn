@@ -1,0 +1,602 @@
+[
+    {
+        "id": "1",
+        "category": "Animals",
+        "word": "Dog",
+        "emoji": "🐶"
+    },
+    {
+        "id": "2",
+        "category": "Animals",
+        "word": "Cat",
+        "emoji": "🐱"
+    },
+    {
+        "id": "3",
+        "category": "Animals",
+        "word": "Bird",
+        "emoji": "🐦"
+    },
+    {
+        "id": "4",
+        "category": "Animals",
+        "word": "Fish",
+        "emoji": "🐟"
+    },
+    {
+        "id": "5",
+        "category": "Animals",
+        "word": "Duck",
+        "emoji": "🦆"
+    },
+    {
+        "id": "6",
+        "category": "Animals",
+        "word": "Chicken",
+        "emoji": "🐔"
+    },
+    {
+        "id": "7",
+        "category": "Animals",
+        "word": "Pig",
+        "emoji": "🐷"
+    },
+    {
+        "id": "8",
+        "category": "Animals",
+        "word": "Cow",
+        "emoji": "🐮"
+    },
+    {
+        "id": "9",
+        "category": "Animals",
+        "word": "Horse",
+        "emoji": "🐴"
+    },
+    {
+        "id": "10",
+        "category": "Animals",
+        "word": "Sheep",
+        "emoji": "🐑"
+    },
+    {
+        "id": "11",
+        "category": "Animals",
+        "word": "Lion",
+        "emoji": "🦁"
+    },
+    {
+        "id": "12",
+        "category": "Animals",
+        "word": "Tiger",
+        "emoji": "🐯"
+    },
+    {
+        "id": "13",
+        "category": "Animals",
+        "word": "Elephant",
+        "emoji": "🐘"
+    },
+    {
+        "id": "14",
+        "category": "Animals",
+        "word": "Monkey",
+        "emoji": "🐵"
+    },
+    {
+        "id": "15",
+        "category": "Animals",
+        "word": "Rabbit",
+        "emoji": "🐰"
+    },
+    {
+        "id": "16",
+        "category": "Animals",
+        "word": "Bear",
+        "emoji": "🐻"
+    },
+    {
+        "id": "17",
+        "category": "Animals",
+        "word": "Bee",
+        "emoji": "🐝"
+    },
+    {
+        "id": "18",
+        "category": "Animals",
+        "word": "Frog",
+        "emoji": "🐸"
+    },
+    {
+        "id": "19",
+        "category": "Animals",
+        "word": "Snake",
+        "emoji": "🐍"
+    },
+    {
+        "id": "20",
+        "category": "Animals",
+        "word": "Turtle",
+        "emoji": "🐢"
+    },
+    {
+        "id": "21",
+        "category": "Fruits",
+        "word": "Apple",
+        "emoji": "🍎"
+    },
+    {
+        "id": "22",
+        "category": "Fruits",
+        "word": "Banana",
+        "emoji": "🍌"
+    },
+    {
+        "id": "23",
+        "category": "Fruits",
+        "word": "Orange",
+        "emoji": "🍊"
+    },
+    {
+        "id": "24",
+        "category": "Fruits",
+        "word": "Grapes",
+        "emoji": "🍇"
+    },
+    {
+        "id": "25",
+        "category": "Fruits",
+        "word": "Strawberry",
+        "emoji": "🍓"
+    },
+    {
+        "id": "26",
+        "category": "Fruits",
+        "word": "Watermelon",
+        "emoji": "🍉"
+    },
+    {
+        "id": "27",
+        "category": "Fruits",
+        "word": "Mango",
+        "emoji": "🥭"
+    },
+    {
+        "id": "28",
+        "category": "Fruits",
+        "word": "Pineapple",
+        "emoji": "🍍"
+    },
+    {
+        "id": "29",
+        "category": "Fruits",
+        "word": "Pear",
+        "emoji": "🍐"
+    },
+    {
+        "id": "30",
+        "category": "Fruits",
+        "word": "Peach",
+        "emoji": "🍑"
+    },
+    {
+        "id": "31",
+        "category": "Fruits",
+        "word": "Lemon",
+        "emoji": "🍋"
+    },
+    {
+        "id": "32",
+        "category": "Fruits",
+        "word": "Coconut",
+        "emoji": "🥥"
+    },
+    {
+        "id": "33",
+        "category": "Fruits",
+        "word": "Papaya",
+        "emoji": "🥭"
+    },
+    {
+        "id": "34",
+        "category": "Fruits",
+        "word": "Cherry",
+        "emoji": "🍒"
+    },
+    {
+        "id": "35",
+        "category": "Fruits",
+        "word": "Kiwi",
+        "emoji": "🥝"
+    },
+    {
+        "id": "36",
+        "category": "Colors",
+        "word": "Red",
+        "emoji": "🔴"
+    },
+    {
+        "id": "37",
+        "category": "Colors",
+        "word": "Blue",
+        "emoji": "🔵"
+    },
+    {
+        "id": "38",
+        "category": "Colors",
+        "word": "Green",
+        "emoji": "🟢"
+    },
+    {
+        "id": "39",
+        "category": "Colors",
+        "word": "Yellow",
+        "emoji": "🟡"
+    },
+    {
+        "id": "40",
+        "category": "Colors",
+        "word": "Orange",
+        "emoji": "🟠"
+    },
+    {
+        "id": "41",
+        "category": "Colors",
+        "word": "Pink",
+        "emoji": "🩷"
+    },
+    {
+        "id": "42",
+        "category": "Colors",
+        "word": "Purple",
+        "emoji": "🟣"
+    },
+    {
+        "id": "43",
+        "category": "Colors",
+        "word": "Black",
+        "emoji": "⚫"
+    },
+    {
+        "id": "44",
+        "category": "Colors",
+        "word": "White",
+        "emoji": "⚪"
+    },
+    {
+        "id": "45",
+        "category": "Colors",
+        "word": "Brown",
+        "emoji": "🟤"
+    },
+    {
+        "id": "46",
+        "category": "Numbers",
+        "word": "One",
+        "emoji": "1️⃣"
+    },
+    {
+        "id": "47",
+        "category": "Numbers",
+        "word": "Two",
+        "emoji": "2️⃣"
+    },
+    {
+        "id": "48",
+        "category": "Numbers",
+        "word": "Three",
+        "emoji": "3️⃣"
+    },
+    {
+        "id": "49",
+        "category": "Numbers",
+        "word": "Four",
+        "emoji": "4️⃣"
+    },
+    {
+        "id": "50",
+        "category": "Numbers",
+        "word": "Five",
+        "emoji": "5️⃣"
+    },
+    {
+        "id": "51",
+        "category": "Numbers",
+        "word": "Six",
+        "emoji": "6️⃣"
+    },
+    {
+        "id": "52",
+        "category": "Numbers",
+        "word": "Seven",
+        "emoji": "7️⃣"
+    },
+    {
+        "id": "53",
+        "category": "Numbers",
+        "word": "Eight",
+        "emoji": "8️⃣"
+    },
+    {
+        "id": "54",
+        "category": "Numbers",
+        "word": "Nine",
+        "emoji": "9️⃣"
+    },
+    {
+        "id": "55",
+        "category": "Numbers",
+        "word": "Ten",
+        "emoji": "🔟"
+    },
+    {
+        "id": "56",
+        "category": "Body Parts",
+        "word": "Eye",
+        "emoji": "👁️"
+    },
+    {
+        "id": "57",
+        "category": "Body Parts",
+        "word": "Nose",
+        "emoji": "👃"
+    },
+    {
+        "id": "58",
+        "category": "Body Parts",
+        "word": "Mouth",
+        "emoji": "👄"
+    },
+    {
+        "id": "59",
+        "category": "Body Parts",
+        "word": "Ear",
+        "emoji": "👂"
+    },
+    {
+        "id": "60",
+        "category": "Body Parts",
+        "word": "Hand",
+        "emoji": "✋"
+    },
+    {
+        "id": "61",
+        "category": "Body Parts",
+        "word": "Foot",
+        "emoji": "🦶"
+    },
+    {
+        "id": "62",
+        "category": "Body Parts",
+        "word": "Head",
+        "emoji": "🗣️"
+    },
+    {
+        "id": "63",
+        "category": "Body Parts",
+        "word": "Arm",
+        "emoji": "💪"
+    },
+    {
+        "id": "64",
+        "category": "Body Parts",
+        "word": "Leg",
+        "emoji": "🦵"
+    },
+    {
+        "id": "65",
+        "category": "Body Parts",
+        "word": "Hair",
+        "emoji": "💇"
+    },
+    {
+        "id": "66",
+        "category": "Transportation",
+        "word": "Car",
+        "emoji": "🚗"
+    },
+    {
+        "id": "67",
+        "category": "Transportation",
+        "word": "Bus",
+        "emoji": "🚌"
+    },
+    {
+        "id": "68",
+        "category": "Transportation",
+        "word": "Bike",
+        "emoji": "🚲"
+    },
+    {
+        "id": "69",
+        "category": "Transportation",
+        "word": "Plane",
+        "emoji": "✈️"
+    },
+    {
+        "id": "70",
+        "category": "Transportation",
+        "word": "Boat",
+        "emoji": "⛵"
+    },
+    {
+        "id": "71",
+        "category": "Transportation",
+        "word": "Train",
+        "emoji": "🚂"
+    },
+    {
+        "id": "72",
+        "category": "Transportation",
+        "word": "Truck",
+        "emoji": "🚚"
+    },
+    {
+        "id": "73",
+        "category": "Transportation",
+        "word": "Helicopter",
+        "emoji": "🚁"
+    },
+    {
+        "id": "74",
+        "category": "Transportation",
+        "word": "Motorbike",
+        "emoji": "🏍️"
+    },
+    {
+        "id": "75",
+        "category": "Transportation",
+        "word": "Ambulance",
+        "emoji": "🚑"
+    },
+    {
+        "id": "76",
+        "category": "Objects",
+        "word": "Ball",
+        "emoji": "⚽"
+    },
+    {
+        "id": "77",
+        "category": "Objects",
+        "word": "Doll",
+        "emoji": "🧸"
+    },
+    {
+        "id": "78",
+        "category": "Objects",
+        "word": "Book",
+        "emoji": "📚"
+    },
+    {
+        "id": "79",
+        "category": "Objects",
+        "word": "Pen",
+        "emoji": "🖊️"
+    },
+    {
+        "id": "80",
+        "category": "Objects",
+        "word": "Chair",
+        "emoji": "🪑"
+    },
+    {
+        "id": "81",
+        "category": "Objects",
+        "word": "Table",
+        "emoji": "🪵"
+    },
+    {
+        "id": "82",
+        "category": "Objects",
+        "word": "Bed",
+        "emoji": "🛏️"
+    },
+    {
+        "id": "83",
+        "category": "Objects",
+        "word": "Cup",
+        "emoji": "☕"
+    },
+    {
+        "id": "84",
+        "category": "Objects",
+        "word": "Spoon",
+        "emoji": "🥄"
+    },
+    {
+        "id": "85",
+        "category": "Objects",
+        "word": "Hat",
+        "emoji": "🎩"
+    },
+    {
+        "id": "86",
+        "category": "Objects",
+        "word": "Shirt",
+        "emoji": "👕"
+    },
+    {
+        "id": "87",
+        "category": "Objects",
+        "word": "Shoes",
+        "emoji": "👟"
+    },
+    {
+        "id": "88",
+        "category": "Objects",
+        "word": "Socks",
+        "emoji": "🧦"
+    },
+    {
+        "id": "89",
+        "category": "Objects",
+        "word": "Umbrella",
+        "emoji": "☂️"
+    },
+    {
+        "id": "90",
+        "category": "Objects",
+        "word": "Key",
+        "emoji": "🔑"
+    },
+    {
+        "id": "91",
+        "category": "Nature",
+        "word": "Sun",
+        "emoji": "☀️"
+    },
+    {
+        "id": "92",
+        "category": "Nature",
+        "word": "Moon",
+        "emoji": "🌙"
+    },
+    {
+        "id": "93",
+        "category": "Nature",
+        "word": "Star",
+        "emoji": "⭐"
+    },
+    {
+        "id": "94",
+        "category": "Nature",
+        "word": "Rain",
+        "emoji": "🌧️"
+    },
+    {
+        "id": "95",
+        "category": "Nature",
+        "word": "Cloud",
+        "emoji": "☁️"
+    },
+    {
+        "id": "96",
+        "category": "Nature",
+        "word": "Flower",
+        "emoji": "🌸"
+    },
+    {
+        "id": "97",
+        "category": "Nature",
+        "word": "Tree",
+        "emoji": "🌳"
+    },
+    {
+        "id": "98",
+        "category": "Nature",
+        "word": "Sky",
+        "emoji": "🌈"
+    },
+    {
+        "id": "99",
+        "category": "Nature",
+        "word": "Water",
+        "emoji": "💧"
+    },
+    {
+        "id": "100",
+        "category": "Nature",
+        "word": "Grass",
+        "emoji": "🌿"
+    }
+]
